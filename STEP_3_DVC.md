@@ -164,7 +164,7 @@ dvc status
 ### 3.8 Commit DVC Metadata
 
 ```bash
-git add data/processed/.gitignore data/processed/*.dvc
+git add data/.gitignore data/processed.dvc
 git commit -m "Add processed data to DVC"
 ```
 
