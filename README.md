@@ -1,5 +1,7 @@
 # MLOps Real-Time Predictive System - Step-by-Step Guide
 
+> CI/CD workflows added in Step 5
+
 ## Project Overview
 
 **Domain**: Environmental (OpenWeather API)  
