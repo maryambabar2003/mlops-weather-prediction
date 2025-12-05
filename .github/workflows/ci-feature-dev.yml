@@ -5,6 +5,10 @@ on:
     branches:
       - dev
     types: [opened, synchronize, reopened]
+  push:
+    branches:
+      - feature/initial-setup
+      - dev
 
 jobs:
   code-quality:
